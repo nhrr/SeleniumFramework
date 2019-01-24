@@ -1,0 +1,20 @@
+[TRACE] 2018-09-09 23:35:05.018 [main] Log4jDemo - This is trace message
+[INFO ] 2018-09-09 23:35:05.021 [main] Log4jDemo - This is information message
+[ERROR] 2018-09-09 23:35:05.022 [main] Log4jDemo - This is an error message
+[WARN ] 2018-09-09 23:35:05.022 [main] Log4jDemo - This is a warning message
+[FATAL] 2018-09-09 23:35:05.022 [main] Log4jDemo - This is a fatal message
+[TRACE] 2018-09-09 23:36:59.776 [main] Log4jDemo - This is trace message
+[INFO ] 2018-09-09 23:36:59.779 [main] Log4jDemo - This is information message
+[ERROR] 2018-09-09 23:36:59.779 [main] Log4jDemo - This is an error message
+[WARN ] 2018-09-09 23:36:59.779 [main] Log4jDemo - This is a warning message
+[FATAL] 2018-09-09 23:36:59.780 [main] Log4jDemo - This is a fatal message
+[TRACE] 2018-09-10 00:08:26.292 [main] Log4jDemo - This is trace message
+[INFO ] 2018-09-10 00:08:26.296 [main] Log4jDemo - This is information message
+[ERROR] 2018-09-10 00:08:26.296 [main] Log4jDemo - This is an error message
+[WARN ] 2018-09-10 00:08:26.296 [main] Log4jDemo - This is a warning message
+[FATAL] 2018-09-10 00:08:26.296 [main] Log4jDemo - This is a fatal message
+[TRACE] 2018-09-14 12:33:23.721 [main] Log4jDemo - This is trace message
+[INFO ] 2018-09-14 12:33:23.730 [main] Log4jDemo - This is information message
+[ERROR] 2018-09-14 12:33:23.730 [main] Log4jDemo - This is an error message
+[WARN ] 2018-09-14 12:33:23.731 [main] Log4jDemo - This is a warning message
+[FATAL] 2018-09-14 12:33:23.731 [main] Log4jDemo - This is a fatal message
